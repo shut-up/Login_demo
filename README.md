@@ -3,4 +3,5 @@
 
 
 #db.txt
-可直接把根目录下db.txt文件复制到mysql中创建数据库
+可直接把src目录下db.txt文件复制到mysql中创建数据库
+applicationContext.xml文件可以修改mysql的用户名和密码
